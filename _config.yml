@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KO"
-title                    : "컴퓨터공학전공"
+title                    : "CSE"
 title_separator          : "-"
 subtitle                 : "이화여자대학교 컴퓨터공학전공"
 name                     : "김현수 산학협력중점교수"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "김현수교수"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "이화여자대학교 컴퓨터공학전공 산학협력중점교수"
+  bio              : "이화여자대학교\n컴퓨터공학전공\n산학협력중점교수"
   location         : "이화여자대학교"
   email            :
   links:
