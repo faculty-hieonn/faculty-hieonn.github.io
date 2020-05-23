@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-remote_theme           : "aweekj/kiko-now"
+remote_theme           : aweekj/kiko-now
 
 # Name of your site (displayed in the header)
 name: CSE EWHA WOMANS UNIVERSITY
