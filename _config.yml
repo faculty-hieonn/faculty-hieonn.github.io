@@ -2,13 +2,13 @@
 # This file contains configuration flags to customize your site
 #
 
-remote_theme           : aweekj/kiko-now
+remote_theme           : "aweekj/kiko-now"
 
 # Name of your site (displayed in the header)
-name: CSE EWHA WOMANS UNIVERSITY
+name: "CSE EWHA WOMANS UNIVERSITY"
 
 # Short bio or description (displayed in the header)
-description: 김현수교수 - 산학협력중점교수
+description: "김현수교수 - 산학협력중점교수"
 
 #
 # Flags below are optional
@@ -66,13 +66,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://hieonn.github.io
+url: "https://hieonn.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: /ewha
+baseurl: "/ewha"
 
 #
 # !! You don't need to change any of the configuration flags below !!
