@@ -19,7 +19,7 @@ locale                   : "ko-KO"
 title                    : "COMPUTER SCIENCE AND ENGINEERING"
 title_separator          : "-"
 subtitle                 : "이화여자대학교 컴퓨터공학전공"
-name                     : "김현수 산학협력중점교수"
+name                     : "김현수 이화여자대학교 컴퓨터공학전공 산학협력중점교수"
 description              : ""
 url                      : "https://hieonn.github.io/ewha"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -38,7 +38,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : 10
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
