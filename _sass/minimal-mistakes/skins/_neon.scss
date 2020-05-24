@@ -46,6 +46,7 @@ $base0f: #cc6633 !default;
   color: $text-color;
   background-color: $primary-color;
   border-color: transparent;
+  border: 0px;
 
   &:visited {
     color: $text-color;
