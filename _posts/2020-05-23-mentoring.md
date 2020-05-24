@@ -32,7 +32,7 @@ categories: notice
 
 | 이메일연락처 | 전화번호 |
 |--------|--------|
-| cse@ewha.ac.kr       |  02)3277-2305     |
+| <a href="mailto:cse@ewha.ac.kr?Subject='(졸업생멘토신청)'">cse@ewha.ac.kr</a>|<a href='tel:02-3277-2305'>02)3277-2305</a>     |
 
 
 감사합니다. 
