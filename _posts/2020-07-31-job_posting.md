@@ -26,7 +26,7 @@ categories: notice
 
 <a href='http://www.ewha.ac.kr/ewha/news/notice.do?mode=view&articleNo=322329&article.offset=10&articleLimit=10&no=486'>http://www.ewha.ac.kr/ewha/news/notice.do?mode=view&articleNo=322329&article.offset=10&articleLimit=10&no=486</a>
 
-※ 문의: 
+※ 문의 : <br> 
 산학협력팀 청년TLO 운영단(tlo@ewha.ac.kr / 02-3277-3743) 
 김현수교수 (hieonn@g.ewha.ac.kr, 02-3277-4067) 
 
