@@ -13,7 +13,7 @@ $(document).ready(function() {
         ? $(window).width() > 1024 // width should match $large Sass variable
         : !$(".author__urls-wrapper button").is(":visible");
     if (show) {  // big
-      altert('Display Test');
+      //altert('Display Test');
       // fix
       $(".sidebar").addClass("sticky");
     } else { // small
@@ -134,4 +134,8 @@ $(document).ready(function() {
       $(this).append(anchor);
     }
   });
+
+  /* hieonn modified counter custom */
+  $('div.author__bio a').css("pointer-events", "none");
+
 });
