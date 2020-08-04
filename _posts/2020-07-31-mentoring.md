@@ -53,3 +53,5 @@ categories: notice
 
 
 감사합니다. 
+
+담당 교수 : 김현수

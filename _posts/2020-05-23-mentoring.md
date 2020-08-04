@@ -36,5 +36,6 @@ categories: notice
 |--------|--------|
 | <a href="mailto:cse@ewha.ac.kr?Subject='(졸업생멘토신청)'">cse@ewha.ac.kr</a>|<a href='tel:02-3277-2305'>02)3277-2305</a>     |
 
+담당 교수 : 김현수
 
 감사합니다. 

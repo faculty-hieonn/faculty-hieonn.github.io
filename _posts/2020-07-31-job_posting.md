@@ -28,6 +28,6 @@ categories: notice
 
 ※ 문의 : <br> 
 산학협력팀 청년TLO 운영단(tlo@ewha.ac.kr / 02-3277-3743) 
-김현수교수 (hieonn@g.ewha.ac.kr, 02-3277-4067) 
+김현수 교수 (hieonn@g.ewha.ac.kr, 02-3277-4067) 
 
 이화여자대학교 산학협력단 제공
