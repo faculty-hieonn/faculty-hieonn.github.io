@@ -16,6 +16,7 @@
   {% endif %}
 
   <div class="author__content">
+    <div class='author_content_bio'>
     {% if author.home %}
       <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
@@ -26,6 +27,7 @@
         {{ author.bio | markdownify }}
       </div>
     {% endif %}
+    </div>
 
     <!-- Start of CuterCounter Code -->
       <!-- <a href="https://www.webfreecounter.com/" target="_blank"> -->
@@ -39,16 +41,18 @@
           <p style="display: inline;"> 방문자 : </p> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=416da0081845c686e76f9f199771509009a10527'></script> <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/729440/t/3"></script>
         </div> -->
 
-        <div class="author__bio" itemprop="description">
-          <script type="text/javascript" src="https://www.counters-free.net/count/64iz"></script><br>
-          <a href='https://www.symptoma.kr/ko/info/covid-19#info' style='color: #ffffff;'>코로나 바이러스 증상</a> <script type='text/javascript' src='https://whomania.com/ctr?id=1f97cd03a8a6900659bf208e245c28c516f152c0'></script>
-        </div>
+        <div class='author_content_bio_aux'>
+          <div class="author__bio" itemprop="description">
+            <script type="text/javascript" src="https://www.counters-free.net/count/64iz"></script><br>
+            <a href='https://www.symptoma.kr/ko/info/covid-19#info' style='color: #ffffff;'>코로나 바이러스 증상</a> <script type='text/javascript' src='https://whomania.com/ctr?id=1f97cd03a8a6900659bf208e245c28c516f152c0'></script>
+          </div>
 
-        {% if author.location %}
-        <div itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span style='font-size:11px;' itemprop="name">{{ author.location }}</span>
+          {% if author.location %}
+          <div itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+            <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span style='font-size:11px;' itemprop="name">{{ author.location }}</span>
+          </div>
+          {% endif %}
         </div>
-        {% endif %}
 
       </div>
 

@@ -12,10 +12,11 @@ $(document).ready(function() {
       $(".author__urls-wrapper button").length === 0
         ? $(window).width() > 1024 // width should match $large Sass variable
         : !$(".author__urls-wrapper button").is(":visible");
-    if (show) {
+    if (show) {  // big
+      altert('Display Test');
       // fix
       $(".sidebar").addClass("sticky");
-    } else {
+    } else { // small
       // unfix
       $(".sidebar").removeClass("sticky");
     }
