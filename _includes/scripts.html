@@ -27,3 +27,11 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+ <!--script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="crossorigin="anonymous"></script-->
+    <script>
+    // hieonn modified
+    $(document).ready(function(){
+      $('div.author__bio a').css("pointer-events", "none");
+    });
+    </script>
