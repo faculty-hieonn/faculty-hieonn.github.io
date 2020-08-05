@@ -137,5 +137,6 @@ $(document).ready(function() {
 
   /* hieonn modified counter custom */
   $('div.author__bio a').css("pointer-events", "none");
+  alert('Welcome');
 
 });
