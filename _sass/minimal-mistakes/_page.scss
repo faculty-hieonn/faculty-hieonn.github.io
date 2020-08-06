@@ -209,8 +209,8 @@ body {
     }
 
     .page__title {
-      font-size: 21px; // $type-size-2; 
-
+      font-size: 21px; 
+      // $type-size-2; 
       @include breakpoint($small) {
         font-size: $type-size-1;
       }
