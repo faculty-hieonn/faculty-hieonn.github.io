@@ -71,7 +71,7 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
-  font-size: 24px;
+  font-size: 21px;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -209,7 +209,7 @@ body {
     }
 
     .page__title {
-      font-size: 21px;//$type-size-2;
+      font-size: 21px; // $type-size-2; 
 
       @include breakpoint($small) {
         font-size: $type-size-1;
