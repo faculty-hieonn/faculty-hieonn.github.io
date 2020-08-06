@@ -278,4 +278,9 @@ defaults:
       read_time: true
       comments: # true
       share: true
+<<<<<<< HEAD
       related: true
+=======
+      related: true
+     
+>>>>>>> parent of 3ed1ce2... page 추가
