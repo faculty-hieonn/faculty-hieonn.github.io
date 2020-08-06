@@ -279,7 +279,6 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _pages 부분입니다.
   - scope:
       path: "_pages"
       type: pages
