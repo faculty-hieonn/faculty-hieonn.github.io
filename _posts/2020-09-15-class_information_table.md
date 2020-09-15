@@ -13,3 +13,5 @@ categories: data_science
 | 2020-1 리더십III | 121 |     |     |     | 12 classes |
 | 2020-2 리더십I   | 162 |     |     |     | 13 classes |
 | 2020-2 리더십II  | 115 |     |     |     | 13 classes |
+
+* 클래스_자료.xlsx
