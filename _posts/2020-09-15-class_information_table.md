@@ -4,7 +4,7 @@ date: 2020-09-10 08:26:28 -0400
 categories: data_science 
 ---
 
-# Class inforamtion table
+### Class inforamtion table
 
 |               | 그로쓰 | 그로쓰 | 스타트 | 스타트 |  classes  |
 |---------------|-----|-----|-----|-----|------------|
