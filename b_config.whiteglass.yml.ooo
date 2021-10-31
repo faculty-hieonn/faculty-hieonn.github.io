@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme           : "yous/whiteglass"
 title: CSE Ewha Womans University
-author: 김현수교수
+author: 김현수 교수
 description: 이화여자대학교 컴퓨터공학전공 산학협력중점교수.
 baseurl: "/ewha" # the subpath of your site, e.g. /blog
 url: "https://hieonn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
