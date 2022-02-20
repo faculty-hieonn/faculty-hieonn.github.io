@@ -31,7 +31,27 @@
  <!--script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="crossorigin="anonymous"></script-->
     <script>
     // hieonn modified
-    $(document).ready(function(){
-      $('div.author__bio a').css("pointer-events", "none");
-    });
+      $(document).ready(function () {
+        $('div.author__bio a').css("pointer-events", "none");
+
+        $.ajax({
+          url: "https://gpu.handsomeus.us/wsgi/counter/recipesds",
+          type: "GET",
+          cache: false,
+          dataType: "json",
+          contentType: false,
+          crossDomain: true,
+          success: function (data) {
+            console.log("반갑습니다" + JSON.stringify(data));
+            // $("#today").text(parseInt(data['today']).toLocaleString());
+            // $("#yesterday").text(parseInt(data['yesterday']).toLocaleString());
+            $("#visitor").text(parseInt(data['total']).toLocaleString());
+            // $("#counterarea").show();
+          },
+          error: function (request, status, error) {
+            console.log("환영합니다 " + status + " " + error);
+          }
+        });
+
+      });
     </script>
