@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KO"
-title                    : "COMPUTER SCIENCE AND ENGINEERING EWHA"
+title                    : "COMPUTER SCIENCE YONSEI"
 title_separator          : "-"
-subtitle                 : "이화여자대학교 컴퓨터공학전공"
-name                     : "이화여자대학교 컴퓨터공학 이화여대 컴공 산학협력중점교수 김현수 교수"
+subtitle                 : "연세대학교 인공지능학과"
+name                     : "연세대학교 인공지능 연대 인공지능 산학협력중점교수 김현수 교수"
 description              : ""
 url                      : "https://faculty-hieonn.github.io"
 baseurl                  : ""
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "김현수 교수"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "이화여자대학교<br>컴퓨터공학전공<br>산학협력중점교수"
-  location         : "이화여대<br>아산공학관123호<br>02)3277-4067"
+  bio              : "연세대학교<br>인공지능학과<br>산학협력중점교수<br>前이화여자대학교<br>컴퓨터공학전공<br>산학협력중점교수"
+  location         : "연세대학교<br>공학원152D호<br>02)2123-7783"
   email            :
   links:
     - label: "Email"
